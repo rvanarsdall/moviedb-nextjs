@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
       <Container>
-        <h1 className="text-center">Welcome to Learning React</h1>
+        <h1 className="text-center">Welcome to Learning React@ testing</h1>
         <Row>
           <Col sm={4}>
             <ListGroup className="mt-5">
@@ -16,6 +16,7 @@ export default function Home() {
           </Col>
           <Col sm={8}>
             <p>Please select a link over to go to that topic area</p>
+            <p>Hello again here</p>
           </Col>
         </Row>
       </Container>
